@@ -21,9 +21,6 @@ Divided according to departments, The subjects common to all departments are fou
 
 ## Subjects For All Department
 
-### Current Contributions
-
-
 ### Previous Contributions
 
 
@@ -47,12 +44,18 @@ Divided according to departments, The subjects common to all departments are fou
 
 ## General Department Subjects
 
+### Current Contributions
+_Work in Progress_
+- [Drive For General Department Subjects](https://drive.google.com/drive/folders/1AfpksQxKVCQFYVNs74IL4hzRgSkQU2yH?lfhs=2)
 
 ### External Resources 
 
 #### Electronics
 
 ## Bioinformatics Department Subjects
+### Current Contributions
+_Work in Progress_
+- [Bioinformatics Department Subjects](https://drive.google.com/drive/folders/1rkCx5yqfj-ohiXMkYysAJYWmInzpDAet?lfhs=2)
 
 ### External Resources 
 
@@ -68,6 +71,8 @@ Divided according to departments, The subjects common to all departments are fou
 ## Software Engineering Department Subjects
 
 ### Current Contributions
+_Work in Progress_
+- [Software Engineering Department Subjects](https://drive.google.com/drive/folders/15VUk3Deo87SIRGjtl24y_ObVf5nqTWc3?lfhs=2)
 	
 ### External Resources 
 
@@ -78,4 +83,3 @@ Divided according to departments, The subjects common to all departments are fou
 #### Economics
 1. [Arabic Course -Ashraf Amin:Economics 2022 ](https://www.youtube.com/playlist?list=PLCFXiGn4-ZKaoFc19It8bZt0cncTdsY-D)
 
-## Artificial Intelligence Department Subjects
