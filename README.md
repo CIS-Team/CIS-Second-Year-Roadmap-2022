@@ -52,6 +52,9 @@ _Work in Progress_
 ### External Resources 
 
 #### Electronics
+- [Arabic course - محاضرات مقرر الإلكترونيات](https://www.youtube.com/playlist?list=PLoiEx8wAxvXJc4sC5tvFP4mJtdHyBfAIg)
+- [Arabic Course - Walid Issa:دورة الالكترونيات العملية](https://www.youtube.com/playlist?list=PLww54WQ2wa5rOJ7FcXxi-CMNgmpybv7ei)
+- [English Book - alexander Fundamentals of Electric Circuit 3e HQ](https://fenix.ciencias.ulisboa.pt/downloadFile/563087392380179/Fundamentals%20Of%20Electric%20Circuits.pdf)
 
 ## Bioinformatics Department Subjects
 ### Current Contributions
