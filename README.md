@@ -22,7 +22,7 @@ Divided according to departments, The subjects common to all departments are fou
 ## Subjects For All Department
 
 ### Previous Contributions
-- (Drive For All Departments Subjects)[https://drive.google.com/drive/folders/1wY6Ae-xodcI_YmBGXp5uGIVwsSZq9ToK?usp=sharing]
+- [Drive For All Departments Subjects](https://drive.google.com/drive/folders/1wY6Ae-xodcI_YmBGXp5uGIVwsSZq9ToK?usp=sharing) 
 
 
 ### External Resources 
@@ -41,6 +41,7 @@ Divided according to departments, The subjects common to all departments are fou
 3. [Arabic Course - Professor X: Foundations of Statistical Analysis (Full College Course)/تعلم اسس علم الاحصاء](https://www.youtube.com/playlist?list=PLVpJGVBmPnw3eRSzC90oXA6gBcG-nEYIe)
 4. [English Course - The Organic Chemistry Tutor: Statistics](https://www.youtube.com/playlist?list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV)
 
+#### Graphics
 
 ## General Department Subjects
 
@@ -56,7 +57,6 @@ _Work in Progress_
 - [English Book - alexander Fundamentals of Electric Circuit 3e HQ](https://fenix.ciencias.ulisboa.pt/downloadFile/563087392380179/Fundamentals%20Of%20Electric%20Circuits.pdf)
 
 ## Bioinformatics Department Subjects
-
 ### Current Contributions
 _Work in Progress_
 - [Bioinformatics Department Subjects](https://drive.google.com/drive/folders/1rkCx5yqfj-ohiXMkYysAJYWmInzpDAet?lfhs=2)
@@ -66,6 +66,10 @@ _Work in Progress_
 #### Software engineering
 1. [Arabic Course - Open Courses: Software Engineering  | هندسة برمجيات](https://www.youtube.com/watch?v=23wr24zdmQM&list=PL08ef9eJxtJZvt5BOsT46vN6kWnflVKH4)
 2. [Arabic course - Ahmed Alageed: Software Engineering ](https://www.youtube.com/playlist?list=PLquXYvvn8Qk-Yb-ytydSIePeSwTtQmPSX)
+
+
+#### Genetics
+
 
 
 ## Software Engineering Department Subjects
