@@ -41,7 +41,6 @@ Divided according to departments, The subjects common to all departments are fou
 3. [Arabic Course - Professor X: Foundations of Statistical Analysis (Full College Course)/تعلم اسس علم الاحصاء](https://www.youtube.com/playlist?list=PLVpJGVBmPnw3eRSzC90oXA6gBcG-nEYIe)
 4. [English Course - The Organic Chemistry Tutor: Statistics](https://www.youtube.com/playlist?list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV)
 
-#### Graphics
 
 ## General Department Subjects
 
